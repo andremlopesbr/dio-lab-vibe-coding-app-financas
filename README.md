@@ -26,9 +26,31 @@ Usar tom educativo e linguagem acessível, em português.
 ---
 
 ## 📸 Prints e Vídeos
-- Aplicação: [Chat Cash Coach](https://chat-cash-coach-60.lovable.app/auth)  
-- Vídeo: [Demo no Loom](https://www.loom.com/share/976e9edbe174431dbabc8b300f835168)  
-- Imagem: incluída em anexo no repositório  
+### Aplicação: [Chat Cash Coach](https://chat-cash-coach-60.lovable.app/auth)  
+### Vídeo: [Demo no Loom](https://www.loom.com/share/976e9edbe174431dbabc8b300f835168)  
+### Screenshots do Projeto:
+
+Abaixo estão algumas telas do protótipo desenvolvido durante o desafio:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./src/01.jpeg" alt="Tela 01 - Guia Financeiro" width="100%">
+    </td>
+    <td align="center">
+      <img src="./src/02.jpeg" alt="Tela 02 - Guia Financeiro" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./src/03.jpeg" alt="Tela 03 - Guia Financeiro" width="100%">
+    </td>
+    <td align="center">
+      <img src="./src/04.jpeg" alt="Tela 04 - Guia Financeiro" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
